@@ -8,15 +8,15 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:478617013237:android:3c82b77808accbc0816ebc",
+        "mobilesdk_app_id": "1:478617013237:android:<your-id-here>",
         "android_client_info": {
-          "package_name": "com.example.madl_mini_project"
+          "package_name": "com.example.madl_project"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAmy9b6FIubKAMXhCzpDBBB6lg054S92qY"
+          "current_key": "<your-key-here>"
         }
       ],
       "services": {
