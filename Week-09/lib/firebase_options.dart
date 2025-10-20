@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBm7Db8u6xDQSOFFryrUeu6SB7mcOOWa0Q',
-    appId: '1:478617013237:web:5717173edf4a9e56816ebc',
+    apiKey: '<your-key-here>',
+    appId: '1:478617013237:web:<your-id-here>',
     messagingSenderId: '478617013237',
     projectId: 'madl-exp-9',
     authDomain: 'madl-exp-9.firebaseapp.com',
@@ -51,8 +51,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBm7Db8u6xDQSOFFryrUeu6SB7mcOOWa0Q',
-    appId: '1:478617013237:android:3c82b77808accbc0816ebc',
+    apiKey: '<your-key-here>',
+    appId: '1:478617013237:android:<your-id-here>',
     messagingSenderId: '478617013237',
     projectId: 'madl-exp-9',
     storageBucket: 'madl-exp-9.firebasestorage.app',
@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBm7Db8u6xDQSOFFryrUeu6SB7mcOOWa0Q',
+    apiKey: '<your-key-here>',
     appId: '1:478617013237:ios:YOUR_APP_ID',
     messagingSenderId: '478617013237',
     projectId: 'madl-exp-9',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBm7Db8u6xDQSOFFryrUeu6SB7mcOOWa0Q',
+    apiKey: '<your-key-here>',
     appId: '1:478617013237:ios:YOUR_APP_ID',
     messagingSenderId: '478617013237',
     projectId: 'madl-exp-9',
@@ -80,8 +80,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBm7Db8u6xDQSOFFryrUeu6SB7mcOOWa0Q',
-    appId: '1:478617013237:web:5717173edf4a9e56816ebc',
+    apiKey: '<your-key-here>',
+    appId: '1:478617013237:web:<your-id-here>',
     messagingSenderId: '478617013237',
     projectId: 'madl-exp-9',
     authDomain: 'madl-exp-9.firebaseapp.com',
